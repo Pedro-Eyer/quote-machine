@@ -20,7 +20,7 @@ Um projeto desenvolvido como parte dos desafios do currículo de **Front End Dev
 
 ## 🎨 Demonstração
 
-🔗 [Clique aqui para ver o projeto online](https://seu-link.netlify.app)
+🔗 [Clique aqui para ver o projeto online](https://quote-machine-ruddy.vercel.app/)
 
 ![Demonstração do Projeto](./screenshot.png)
 
@@ -36,4 +36,4 @@ Um projeto desenvolvido como parte dos desafios do currículo de **Front End Dev
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/random-quote-machine.git
+   git clone https://github.com/Pedro-Eyer/quote-machine
