@@ -1,13 +1,39 @@
-# React + Vite
+# 📜 Random Quote Machine
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um projeto desenvolvido como parte dos desafios do currículo de **Front End Development** do [freeCodeCamp](https://www.freecodecamp.org/). Essa aplicação exibe citações aleatórias acompanhadas do nome do autor, permitindo ao usuário gerar novas frases e compartilhá-las no Twitter.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React** com Vite
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+- **Font Awesome** (ícones)
+- **Twitter Intent API** (para compartilhamento)
 
-## Expanding the ESLint configuration
+## 🖼️ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# quote-machine
+- Geração de citações aleatórias com um clique.
+- Estilização responsiva e moderna com transições suaves.
+- Botão para compartilhar a citação diretamente no Twitter.
+- Atualização dinâmica de cores e conteúdos.
+- Rodapé com assinatura personalizada.
+
+## 🎨 Demonstração
+
+🔗 [Clique aqui para ver o projeto online](https://seu-link.netlify.app)
+
+![Demonstração do Projeto](./screenshot.png)
+
+## 🧠 Conceitos Praticados
+
+- Manipulação de estado com `useState`
+- Componentização em React
+- Estilização com classes dinâmicas
+- Deploy em ambiente real (Netlify, Vercel, etc.)
+- Integração com redes sociais via URL
+
+## 🛠️ Como Executar Localmente
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seuusuario/random-quote-machine.git

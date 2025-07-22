@@ -103,6 +103,7 @@ function QuoteMachine() {
   <p style={{
     marginTop: '30px',
     fontSize: '0.8rem',
+    
     color: 'rgba(255,255,255,0.7)',
     fontStyle: 'italic',
   }}>
