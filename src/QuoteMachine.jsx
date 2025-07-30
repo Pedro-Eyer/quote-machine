@@ -56,7 +56,7 @@ function QuoteMachine() {
         boxShadow: '0 8px 16px rgba(0, 0, 0, 0.3)',
         border: '2px solid rgba(255, 255, 255, 0.3)',
         backgroundColor: color,
-        color: '#fff',  // texto branco para contraste
+        color: '#fff',  
         transition: 'background-color 1s ease, color 1s ease, box-shadow 1s ease, border-color 1s ease',
         padding: '20px',
         borderRadius: '10px',
@@ -71,8 +71,8 @@ function QuoteMachine() {
         id="new-quote"
         onClick={getNewQuote}
         style={{
-          backgroundColor: '#fff', // branco para o botão
-          color: color,            // texto colorido
+          backgroundColor: '#fff', 
+          color: color,            
           borderColor: color,
           cursor: 'pointer',
           padding: '10px 20px',
@@ -91,7 +91,7 @@ function QuoteMachine() {
         target="_blank"
         rel="noopener noreferrer"
         style={{
-          color: '#fff',  // link visível em branco
+          color: '#fff',  
           fontWeight: 'bold',
           textDecoration: 'none',
           transition: 'color 0.5s ease',
@@ -99,7 +99,6 @@ function QuoteMachine() {
       >
         Tweetar
       </a>
-      {/* Aqui vem a assinatura */}
   <p style={{
     marginTop: '30px',
     fontSize: '0.8rem',

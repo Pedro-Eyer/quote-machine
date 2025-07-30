@@ -22,7 +22,7 @@ Um projeto desenvolvido como parte dos desafios do currículo de **Front End Dev
 
 🔗 [Clique aqui para ver o projeto online](https://quote-machine-ruddy.vercel.app/)
 
-![Demonstração do Projeto](./preview.png)
+![Demonstração do Projeto](./assets/preview.png)
 
 ## 🧠 Conceitos Praticados
 
